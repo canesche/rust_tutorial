@@ -1,7 +1,6 @@
 # rust_tutorial
 Learning rust language
 
-# Install Rust
+# Install latest Rust version
 
-  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
